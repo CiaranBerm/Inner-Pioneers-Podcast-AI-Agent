@@ -1,0 +1,755 @@
+Dmitrij Achelrod (00:04.313)
+Stefan, welcome today.
+
+Stefan, Integral Journalism (00:04.438)
+And action!
+
+Dmitrij Achelrod (00:10.775)
+Welcome to the Inner Pioneer's podcast, Stefan. It's a pleasure to have you here with us. Today, I would like to discuss the topic of journalism and in particular, a concept that you have brought to life, integral journalism with you. And yeah, we have the next 60 minutes or so to discuss that and I'm very much looking forward to that.
+
+Stefan, Integral Journalism (00:18.327)
+Live, likewise.
+
+Stefan, Integral Journalism (00:41.314)
+Me too. Thanks for having me and good to see you again.
+
+Dmitrij Achelrod (00:44.665)
+Likewise. So Stefan, the reason I wanted to have this conversation with you really is because I feel that our consumption of media or the output of journalism is so pervasive in our lives. I feel like every day I interact with pieces of journalism and
+
+I feel that it impacts very strongly my reality, my sense making, my worldview, what kind of information I get in touch with, how that information is delivered. It really does affect very much even my mood at what kind of content piece I choose or end up reading or end up being served on the display of my phone. And so,
+
+Stefan, Integral Journalism (01:34.627)
+Yeah.
+
+Dmitrij Achelrod (01:41.089)
+I think that I speak for many people when I say that it's probably a very important determinant in our lives and our worldviews. And so I'm very happy that we can have this conversation. And in particular, what distinguishes you from many other colleagues really is that you do not only work in one of Germany's most important and established media houses, which is
+
+Der Spiegel, but that you developed over the course of the last years, a concept that is called integral journalism. And I think that this captures beautifully the confluence between inner development, of vertical development or adult developmental theory, which is a big topic in our podcast, but also the facet of communication or journalism. So it's a very unique
+
+intersection. And that's why I think it's a very, very nice topic to have here on our podcast. So before actually defining what integral journalism is, I would like to take a step back and zoom out a little bit and talk about a concept that you have mentioned recently in one of your conversations, which is called the infosphere.
+
+Stefan, Integral Journalism (03:10.722)
+Mm-hmm. Yeah.
+
+Dmitrij Achelrod (03:10.915)
+Could you explain to us what you mean by that and why it is so important when talking about journalism?
+
+Stefan, Integral Journalism (03:18.446)
+Yeah, sure. Thanks for the introduction. That was lovely. So the Infosphere would be more or less the playing field in which journalism is one of the field players. And you have many others, right? You could have like lobbyists, could have think tanks, you could have every citizen nowadays who's on Instagram or...
+
+wherever on some social media and is also posting content. Also AI, course, more and more. And so the reason why I include the superstructure into my model is that this is really the reason why, in my opinion, journalism needs to develop and journalists need to develop, as you say, in a development.
+
+And so you could define the InfoSphere a little bit like the ecosystem. So you have like an ecosystem of life that is having a lot of cyclic loops, cyclic causalities that are creating life in the end. And so the InfoSphere would be the same thing like your information ecosystem, which consists of all the bits of
+
+well, information that you put in. every study, every journalistic article, every TV piece, every video that some influencers uploading. But so in my definition, it's not only like the cognitive level. So it's not only the information, the facts that are in this pool, but also the emotions that these facts are evoking.
+
+or even the emotions that are just there without the facts. So that would be the infosphere. And the reason why I think it's so important is because it's somehow the link between a lot of other systems in society. you could say that, I mean, you described it on your individual level, how reading the news is affecting your mood, maybe even affecting your worldview.
+
+Stefan, Integral Journalism (05:38.607)
+So this would be one system, like your psychological system is connected to the infosphere, but then you have all these big other systems and subsystems in society, like economy, politics, culture, science, the media system itself, and so on and so on. And they are also all connected through the infosphere.
+
+This is like, I would say it's the defining area where our cultural norms and conventions are discussed and developed. And it's also the pool where collective moods are evoked and strengthened or suppressed. And so this actually affects everything. When you say that you have a society which could be...
+
+like the super structure behind all these systems or like the super system for all of these others, the biggest bubble, so to say, then a lot of that is influenced very strongly through the infosphere. so as I said, journalism is just one player in this. And if you look at the history, how the infosphere developed, then you could say that
+
+especially in the last one or two decades, there was a lot of shift and now with AI there's another shift and the shift goes a little bit into the direction that you have more and more players that are floating the infosphere with not so helpful or even toxic content.
+
+And also very biased content, just like just serving your own interests content. And this is not a new phenomenon. So you always had lobbyists, always had like companies financing science so that you have biased information or like spinning off the facts. And you always had journalism as one of the main players that is...
+
+Dmitrij Achelrod (07:40.28)
+Thank
+
+Stefan, Integral Journalism (07:56.628)
+not biased in any direction or at least in theory should not be biased in any direction. And this one player in the infosphere, journalism, is losing more and more of its power because you have more and more competitors and many of them are not in this neutral mediation position. And then you have journalism itself.
+
+that is reacting to this competition and is also, in my view, developing in a not so helpful way so that we are like as journalists, are fighting for attention in this growing pool. And so we are also following a little bit more the logic of the algorithms, which is not very helpful. And if you say that you should somehow reinvent journalism.
+
+in a way that it helps not only to slow down this toxic development but even help society to develop or to mature, then you need another kind of journalism. That's why I included the Infosphere.
+
+Dmitrij Achelrod (09:12.716)
+Yeah, thanks a lot Stefan, that was very insightful. And I think what this helps me realize is just that journalism is an important piece of the puzzle, but it's just a piece in a sense, right? And it is influencing, but it's also being increasingly influenced by other forces in that system. And you have mentioned one of them, which is, well, the
+
+the onset or the advent of AI and also with it kind of the algorithmic feed that starts pushing content or pushing information or also pushing certain emotions like outrage and anger into this infosphere system. And it stands in competition with professional journalism, which also basically
+
+wants a piece of our attention, right? So do you see this kind of competition as an existential threat to journalism? And then also, how has the mainstream journalism reacted to that threat that has been growing, I would say, probably since social media really gained traction 15 years ago or so?
+
+Stefan, Integral Journalism (10:34.991)
+Yeah, thanks. mean, that's exactly the point, as you say. it's each of the two are influencing each other. And well, I would say that there are two ways that journalism is reacting. And one is trying to develop further and trying to reinvent itself in a healthy way. And the other is what I just mentioned before, just
+
+playing along this game of fighting for attention and also becoming more more sensational, creating outrage, creating fear, being fear mongering, these kinds of things. So that's one way, like, okay, so if the algorithms actually, they're like, know, Bruce Alderman calls them like the algorithmic undertow of the infosphere. So that's really like,
+
+There's this current and since we have social media and the platforms, they completely shifted the rules of the game. So if the InfoSphere would be a playing field, it now has other rules and these rules are more incentivizing destructive impulses. So that are actually destructive to democracy. You want to say something? Yeah.
+
+Dmitrij Achelrod (11:53.369)
+Yeah, I mean, because I think this is a very important point because, well, you have described these shifts in the infosphere. What is the real danger of these dynamics and how does it show up? So what are for you symptoms of the disease, so to speak?
+
+Stefan, Integral Journalism (12:01.615)
+Hmm.
+
+Stefan, Integral Journalism (12:07.929)
+Yeah.
+
+Stefan, Integral Journalism (12:15.277)
+Yeah, okay. We can stay with that a bit. After I would also like to say that there's also an upside of these new rules. So it's not all bad, of course, it never is. so, so the sticking with the dangers for a moment, there are at least two, I would say. And it's not only me that saying there are a lot of like from the integral community, from the liminal web, a lot of people are discussing about this. That
+
+One is the sense crisis and the other is the sense making crisis. And so the first one would be just, I have this cacophony, is that an English word? don't know. It's like this chaotic mix of a lot of perspectives and not really like
+
+Dmitrij Achelrod (13:02.04)
+Coffin, yeah.
+
+Stefan, Integral Journalism (13:14.839)
+a structure in this, not even like higher principles that are bringing order to this. Then, well, on the positive side, you have more multi-perspectivity. It's just like you have more perspectives in the pool now because everybody can speak, everybody can be his or her own medium. And the downside is that it's harder and harder to figure out, but what is the truth, how I can make sense of the world.
+
+Right? So just confused like what I can believe, what I cannot view. That's the sense crisis or Sinnkrise in German. the other one, the sense making crisis goes even deeper. So the Sinngebungskrise in German that you not only have on the content level, this shift of like
+
+It's getting harder for you to sort what is true and what is not and what is useful and not and what makes sense and what's not. But there's a sense making apparatus underneath all of this. like, you say like the machine that is running and that's like all these content is running on this machine is changing and this machine is changing in a way that it's
+
+more and creating these bubbles. So people are more and more disconnected, having less and less shared information, less and less shared connection points. And this was already bad with social media and now with AI it becomes even worse because now you have not only people in bubbles that are fighting against people in other bubbles, but you could have like every individual in the world being his or her own bubble, right?
+
+being constantly in this feedback loop with your personal agent and getting even more disconnected from society. And of course, this in the end on the social level is creating disconnection, fragmentation, less and less shared meaning. yeah, so this would be the algorithmic undertone. So this is why I think it's unhealthy and something needs to change.
+
+Stefan, Integral Journalism (15:27.984)
+Is there anything you want to add on that point before we come to what journalism can
+
+Dmitrij Achelrod (15:33.634)
+happy to go to what journalism can do.
+
+Stefan, Integral Journalism (15:37.657)
+Okay, because then, I said, if I observed journalism in this, you would have two different paths. And one path is, okay, we play along. So if everybody wants cocaine, so to speak, then we also provide cocaine. So we make more sensational headlines and these kinds of things. And the other path would be, okay,
+
+Let's try to redefine our position in the infosphere. Let's find a way to be successful as a counterweight against these unhealthy tendencies. And in this second path, which was the beginning of my research, like five and a half years ago when I was creating integral journalism. So the beginning was that I realized, okay, there are these
+
+concept approaches, progressive journalism tendencies, and there really a lot of them. And the most famous one is, I would say, solution-based journalism, constructive journalism. guess many people are familiar with that, which is, okay, I'm not just speaking about the problems, but I'm also making the solutions a topic and then report on it.
+
+in a critical way still, right? I don't find everything great in the solution, but I make the solution the topic. And so that's one approach, but then you have like many, many more. So you have, let's say conflict sensitive journalism, which is looking at how journalism can actually increase conflicts just by reporting on it in a destructive way and how you can stop.
+
+was formerly called peace journalism. Now it's more called conflict sensitive journalism because it's more fitting. And then you have a lot of other ones like slow journalism where you go really deep or scenario journalism where you try to expand the time horizons. And then you realize that if you look at it through a lens of 50 or 100 years, then a lot of problems are not actually problems. And a lot of solutions are actually like
+
+Stefan, Integral Journalism (17:52.859)
+potentials for systemic change and so on. Then you have empathic journalism, is like stressing more how I can touch my readers and how I can create resonance intelligence in my audience and also in society. then, I mean, when I started, I was collecting all of these things. was reaching out to a lot of innovative newsrooms that are doing different parts of this.
+
+I found really a lot of colleagues that are doing parts of this on their own. like some journalists who also are trainers in nonviolent communication and then apply these techniques to their interviewing when they are journalists and so on. And so then I had this big mountain of different cool ideas how you could develop journalism. then I thought, okay, but somehow a lot of them are fighting.
+
+with each other, like, okay, my approach is the solution to journalism, no, my approach is the solution to journalism. And then I was like, okay, maybe we need some kind of meta model that is giving a room for all of these different approaches and sort of align them to a greater goal. And that's when I came up with the Taggle Journalism with the help of a lot of colleagues and
+
+cool people and also the MIT. so if you go on the meta level and you define it in one word, so if you say like, solutions, journalism is for solutions, empathy journalism is for empathy, then integral journalism is for personality development. As you mentioned before, we would need inner development because if you have a...
+
+a journalist and the personality is more mature, then the output of this journalist will also be more mature and then the input in the infosphere would also be more mature and the audience can work with something more mature and hopefully that will create some development, some healthy development in society.
+
+Dmitrij Achelrod (20:11.176)
+That's a very interesting idea and I have a few questions popping up in my mind. And the first one is, mean, so on the one hand, you have this incessant stream of attention grabbing headlines, flooding our news. when I say news, oftentimes it's a social media feed because classical journalism also now
+
+Stefan, Integral Journalism (20:31.227)
+Mm-hmm.
+
+Stefan, Integral Journalism (20:39.505)
+Hmm.
+
+Dmitrij Achelrod (20:40.732)
+contributing to the media feed. then, so these pieces of content, often are directed towards very, I would say, primitive emotions, They want sensationalism, drama, anger, or shaming, right? And it is, guess, by definition, by our evolutionary biological setup and makeup, they are kind of, they are
+
+Stefan, Integral Journalism (20:57.52)
+Yeah.
+
+Dmitrij Achelrod (21:10.4)
+Captivating, And so then I guess we understand the dangers, right? When you say, well, it's like cocaine. Might be maybe fun for the first few times, but there are real long-term dangers and damages by it. And then you say, well, you know, we have to switch to something more mature. But how do you want or...
+
+Stefan, Integral Journalism (21:22.702)
+Exactly.
+
+Yeah.
+
+Dmitrij Achelrod (21:39.393)
+Imagine getting people's attention and engaging them enough with something that maybe is not aiming to paint a picture of black and white and have some simple message that creates outrage, but something that is more nuanced, something that is more balanced in perspective. How do you compete against that?
+
+Stefan, Integral Journalism (22:00.05)
+Yeah. Yeah. I mean, that's, that's like the $1 million question, right? And I have like sort of an approach of an answer and some things that already worked, but yeah, I mean, that's, that's exactly the point, right? How do you, mean, it's the same, like, how do you say like, okay, I should eat more healthy, but then I still eat burgers. Okay. I should be less on social media, but then
+
+I'm still doom scrolling in the evening and it's very hard to get off these habits because of what you say, that these emotions are so captivating and the platforms are actually building them in a way that they are becoming more addictive and like being like pirates to your limbic system, like catching you with fear and outrage and shame and these kinds of things that you mentioned. if we just stay in this...
+
+Dmitrij Achelrod (22:48.407)
+Mm.
+
+Stefan, Integral Journalism (22:56.027)
+doom perspective for one second, it's even worse because so this would be like the business level of it. So it's just like it's a business model to catch the attention of people with fear and other negative emotions.
+
+Then you have like the psychological system, which is like our brain is, as you also mentioned a bit hardwired to be more sucked into these kinds of things. So when this emotion is, is activated, it's a much stronger impulse that you direct your attention to there. So it's like, it's built into it and the business is making use of it. And then you have a third system, which is like the parliamentary democracy.
+
+that is also adding to this because they would have like a government and an opposition. And the function of the opposition in this political system is always to find the errors of the government and then tell like they are doing a bad work. They need to change something. And if we were the government, then of course we would do it better. And so you have like a third system, which is the opposition.
+
+like the political system that is also having this negative focus. And then if you combine the three, you have a really unhealthy circle. So if you're like journalism that is making money with bad things that are hardwired into your brain and your sources in the political complex are the guys who are also telling bad things, then you end up with what we have, right?
+
+Dmitrij Achelrod (24:41.591)
+Mm.
+
+Stefan, Integral Journalism (24:43.278)
+And then you end up with making still a lot of money with that, I would say. But as we can see from the last 10 to 15 years, the amount of money that you're making with this is getting less and less. And the amount of success that you have with it is also getting less and less. The amount of people that are doing news avoidance, at least in some
+
+parts of their day or their lives is getting up like skyrocketing. So I would say that the first incentive, how you maybe bring at least newsrooms and publishing houses to the idea that this is not a sustainable path and if we are only doing this, we will end up being bankrupt. So that is one thing.
+
+To my knowledge, a lot of newsrooms are discussing this and people realize that this is not working and that with AI it will get much worse, much faster. So that's one incentive that you say, okay, we need to do something else because we cannot just save money and continue to play this game alone. And then the second thing that you can do is let's say measuring your success in a more nuanced way.
+
+because it's not, let's take constructive journalism because you have the most data validation of how it is successful and how not. It's not so much about either doing it or not doing it, but looking in this field of constructive journalism, which of the things that you are doing are actually successful. For example, I just come out from a conference
+
+Dmitrij Achelrod (26:12.12)
+Thanks.
+
+Stefan, Integral Journalism (26:39.858)
+where a colleague discussed that stories about Asia or Africa where people are showing a surprising solution to a problem that we have in the West and it's actually working better are almost
+
+every time successful. that this could be like one little piece of the constructive cake where you can be pretty sure that this is working a lot of times. And so I would say that this would be the second strategy that you are actually looking for successful formats, successful areas in this field. then the third part would be, let's say, reference experiences.
+
+because,
+
+A lot of times, not only in the reporters, but also in the audience, you have these pieces that are, I would call them completely integral. Maybe these people have never heard the word, but they are like natural integrals in a way. Like Diya Khan, for example, which is a Pakistanian filmmaker.
+
+So for example, she did a documentary about meeting all the people of the white right movements in the United States. And she ended up, because she was so empathic and at the same time so well with her boundaries and her opinion, but voicing her own opinion in such a nonviolent way that even the biggest Nazi heads could accept them. so she ended up...
+
+Stefan, Integral Journalism (28:29.009)
+really getting access to the highest echelons of this movement and even converting two of them. So the film ends with two of these guys saying, okay, now after meeting him, so I cannot do this anymore, I quit. And this is so, I know, so touching, so interesting, so...
+
+Dmitrij Achelrod (28:44.183)
+Stefan, Integral Journalism (28:55.057)
+resonant intelligence, so complex for everything. So it has all these ingredients that you would usually say they don't work. Like maybe 1,000 people clicking on that and 100,000 people clicking on some Britney Spears news. And this was really a high success. So she won a lot of awards. She actually...
+
+did a lot, made a lot of money with that film. She made plenty of other films since then. She's really successful. So I would say that there is a way of narrating these kinds of stories that it is touching a lot of people. And I guess the secret, and that would be my last point, is that you could also like captivate the limbic systems of your audience with other emotions and other needs because there's this
+
+studies from what goes actually viral. And it's not only outrage and fear mongering and shame and these kinds of things, but you also have emotions like awe, for example. So like, wow, this is so cool how they did that. Or there's another emotion. There's not really good translation for it. It's called kama Muta, which is like you're spontaneously touched by something.
+
+Dmitrij Achelrod (30:00.408)
+you
+
+Stefan, Integral Journalism (30:18.609)
+And these, so there was some measurement, they go just as viral as the bad emotions, or not the bad, they're not bad emotions, but like negative emotions that feel negative. And they are just as strong, they give you as much as an impulse to click on something, to convert to it. So convert, not in a religious way, but in a business way, but also like to...
+
+to engage more because then people tend to share these things more on social media than the negative stuff and so on. And so there's like, I guess there are these potentials where you could make a business model out of other forms of journalism, but it would include a lot of maturity, a lot of redefining your roles as a journalist.
+
+and a lot of research on the metrics and maybe even expanding the metrics. So that was long. Sorry.
+
+Dmitrij Achelrod (31:22.807)
+That was fascinating, especially the story about the Pakistani documentary filmmaker. It reminds me of a gentleman in the United States of America. I don't remember his name, but he was a black man who ended up befriending supporters of the Ku Klux Klan. And then I in the end also managed even to
+
+Stefan, Integral Journalism (31:31.698)
+Yeah.
+
+Dmitrij Achelrod (31:52.76)
+to convert some of them. it's not because he was blaming or judging them, it was because he was being empathetic and bringing understanding towards their actual fears and their thoughts.
+
+Stefan, Integral Journalism (32:03.495)
+Yeah.
+
+Stefan, Integral Journalism (32:08.175)
+I'd love to watch that if you could send me a link.
+
+Dmitrij Achelrod (32:11.255)
+Yeah, I will. I mean, there's both a movie, I think it's called The Klansman something, but there's also a real story behind that as well. It's fascinating. so I've kind of already before we even talk in depth about integral journalism, I already started questioning how it's going to compete. But in all fairness, of course, I would like to discuss a bit more
+
+Stefan, Integral Journalism (32:16.627)
+Hmm.
+
+Stefan, Integral Journalism (32:35.293)
+Hmm.
+
+Dmitrij Achelrod (32:39.797)
+what integral journalism in its essence is. I think how I understand it is that the way you define integral journalism is that it's not only by the content that it creates, really in its relationship to or its developmental
+
+Stefan, Integral Journalism (33:01.491)
+Mm-hmm.
+
+Dmitrij Achelrod (33:09.143)
+maturity with respect to facts, respect to meaning and discourse. It sounds maybe a bit abstract, but maybe you could tell us what this means. then maybe we could dive into some examples of when we speak about developmental stages of interdevelopment, how do they translate to journalism?
+
+Stefan, Integral Journalism (33:19.516)
+Hmm
+
+Mm-hmm.
+
+Stefan, Integral Journalism (33:26.866)
+Yeah.
+
+Stefan, Integral Journalism (33:30.876)
+Yeah.
+
+Yeah. Okay, let's maybe start with defining what it is and then go to this developmental part.
+
+Because so this developmental part would be like the foundation, like the even more abstract systemic undercurrent. But if you just say like, okay, define integral journalism, then it is, as I say, on the highest level, it focuses at your personal development, your inner development. And then I'm...
+
+I narrowed it down to five principles, or you could also say like five key competences that I would say that a journalist of tomorrow in an more more AI dominated world would need to still exist and to still make his or her job. so these five principles are complexity competence, bias awareness.
+
+resonance, intelligence, discourse, maturity, some that you could say pro-social impact competence. if you go a little bit into each of them, of course, they are all related. So the first one would be, and they are all connected with ego development and the more mature stages of those, so the later stages of development, the post-conventional stages, but
+
+Stefan, Integral Journalism (35:12.508)
+If you just stick with the five competences for now, the first one, complexity competence, is about dealing with complexity in a more holistic way, in a more competent way. So like, okay, I include more perspectives, I'm more multi-perspectival, but I also have systemic tools that help me to sort these perspectives.
+
+prioritize these perspectives and in the end also break them down into a simple language that is not simplifying them but that is making the complexity accessible to the reader, which is like the holy grail of journalism, of course, but it works. And there are systemic tools that are used for this, especially in the research phase where I'm having this map, like this eight zone map.
+
+based on Ken Wilber's eight zones. So not the four quadrants, but the later thing that he developed and that you can actually use this eight zones as a research tool. First of all, define which are your zones and that I need for the story. And then you have around 40 research methods that you wouldn't learn in any journalism school that you can use, especially to research these zones. And then in the end, you can put all the stuff that you collect into
+
+this map, you have a very neat way of collecting it, you don't drown in perspectives and in data. And then in the later phase, you have these tools for easy language, accessible language, and so on and so on, and which would help you to actually explain this complexity in a way that your reader can connect to it, if they didn't do one year of research. So that's one.
+
+I think I don't go so deep into all of five because they will take too long. But so the other ones a bit quicker. The second one bias awareness is about what I call discovering your inner fake news because I would say you don't just have fake news by Vladimir Putin, but you also have fake news by your own cognitive biases that your brain is.
+
+Dmitrij Achelrod (37:19.372)
+Mm-hmm
+
+Stefan, Integral Journalism (37:30.536)
+delivering all the time, also to simplify the world, also to reduce complexity. And there are some of them which are actually very well investigated in journalism science, that they are especially impactful, not only in your journalistic work, but also like how you are like a loudspeaker for biases out there, right? So you're just like strengthening these biases in the infosphere. And so in my model, I'm trying not to do that. I'm trying to teach people how to...
+
+avoid this and how to track their own biases and reflect them. then resonance intelligence is basically empathy. So like on an individual level, paired with atmospheric intelligence. also like getting more nuances in the we space and being more sensitive. Like your colleague, Patrick, is doing this course for managers. So it's mainly that.
+
+The fourth one is discourse maturity. That's a little bit what you mentioned with. It's not only enough that you are delivering more mature content. So if you're delivering this content in just like the way of nowadays talk shows, like for example, being self-righteous, being contentious, being, I don't know, personally,
+
+attacking other people, calling them an idiot because they don't have your opinion. So if you take the most high quality content and you present it into this immature way of discourse, or I would call it debate, then of course it doesn't help very much. So you not only need mature content, but you also need a mature way of bringing this into the world and being more relaxed with
+
+differences of opinions, also world views being more inviting so that other people are actually not shutting down when they read your stuff because they feel ashamed or they feel attacked, but they feel invited that they maybe open up to a perspective that they didn't think about and not just block it. And then the last one is what I call pro-social impact or developmental impulses, which
+
+Stefan, Integral Journalism (39:56.192)
+goes into the direction of constructive journalism so that you make the solution part of the reporting. But it also goes deeper and maybe that's good interlude to what you also were talking about, like the ego development, because the deeper aim of post-social impact would be to create a journalism that's actually helping society to develop into more mature cultures and structures.
+
+Dmitrij Achelrod (40:18.666)
+Okay.
+
+Stefan, Integral Journalism (40:25.457)
+So like be one player that is helping with that. And of course that goes much deeper.
+
+Dmitrij Achelrod (40:31.359)
+Yeah, thank you for that excourse into integral journalism and what qualities or competences actually constituted. so when I think of these competencies, I guess you could probably also map them in a matrix with respect to each developmental stage, right? And your term integral journalism, at least at
+
+as I thought, maybe I still think, it refers to the integral theory of Can-Wilbur. that is a theory which... Yes, no? A bit. Okay. But what I wanted to point to is that since we talk about ego development, there are these concepts of
+
+Stefan, Integral Journalism (41:12.542)
+A bit, not so much, but go on first. would say something later about that.
+
+Dmitrij Achelrod (41:30.379)
+developmental stages that a person can move through in their life. And that each stage really defines how much complexity you can hold, how much how you perceive the world and how you relate to it, how you can respond to it, etc. So I think maybe what I would like to do is if we could take it out of the theory and really into something practical, maybe you could just very briefly
+
+Stefan, Integral Journalism (41:44.981)
+Exactly.
+
+Dmitrij Achelrod (41:59.595)
+describe to us these are the most important developmental stages, right? Maybe at the extreme ends, right? Maybe the one that is more, you know, like kind of self-oriented impulsive, maybe something in the middle that many people might know as the kind of the rationalistic mindset. And then maybe at the other end of the spectrum, something that is more systemic autonomous, right? And so maybe you could also give us some example. How would journalism look like? How does it look like in the on the left hand with the red?
+
+Stefan, Integral Journalism (42:07.286)
+Hmm.
+
+Stefan, Integral Journalism (42:19.744)
+Yeah.
+
+Stefan, Integral Journalism (42:25.014)
+Mmm. Yeah.
+
+Dmitrij Achelrod (42:29.015)
+versus something more bluish or turquoise.
+
+Stefan, Integral Journalism (42:31.21)
+Yeah. Yeah. Yeah. I can definitely do that. I would try to be brief. Actually, I did a lot of very long, fun formats about that in other podcasts where we talked about three hours, just about that. but let's try to make it short. So, okay. So you said, so first of all, my model is not so much.
+
+based on Ken Wilber. So what I took from Wilber was actually mainly his quadrants and then later his zones, right? Like one of his five main pieces, because I thought that's a cool research map. Let's try to use it as a research map. And it actually worked very well. So the rest of his integral theory is maybe not so much in my view.
+
+Dmitrij Achelrod (43:09.431)
+Thank
+
+Stefan, Integral Journalism (43:26.24)
+But his main thought, is transcend and include, right? And also this famous quote of him, everyone is right, but only a bit. That's definitely the key of my model because...
+
+My model is trying to depolarize and it's trying to invite every helpful perspective that is useful for higher principle, which would be in that case, society developments, society maturation. Yeah, so that I took from Wilbur. The rest I didn't take from him so much, but for example, the Stages model, he also has a Stages model, but I'm much more a fan of Susan Kuk-Reuter's Stages model or Thomas Binders.
+
+which was a scholar of Susan Kukreuter. Because it's much more accurate, it's more nuanced, it has one more stage, one more in between stage, which is very crucial, I would say. And it's also based on empirical data, not only on people telling, I'm that stage, I'm that stage. And so I wasn't a big fan of what Wilbur and also the Spirodynamic guys were doing there. So I took...
+
+Susan Kukreuter level. And also last point, just because it came up now, in recent times also getting a bit hard to still mention Ken Wilber because he is, I don't know if he's getting old, but he's doing these really weird interviews where he has a very one-sided, I would say even quite right-wing view on Palestine and Israel. I don't know, man, it's not so.
+
+I'm a bit distancing myself also from that guy. So, but with the stages, so you said like you wanted the import stage, which would be E3 and Susan Kuk-Reuters model, then the rationalist stage E5 and then the systemic autonomous E8, right? So, okay. Yeah.
+
+Dmitrij Achelrod (45:27.329)
+Yeah, maybe you can explain what these stages signify to people who are not really deep into that theory.
+
+Stefan, Integral Journalism (45:32.843)
+Yeah, yeah, yeah. So that's okay. Then let's start with like the earlier stage. So E3, I would say is my four and a half year old son. He's growing into that. He's somewhere between E2 and E3. And E3 is this where you are actually creating your own ego. You're finding out that you have an ego, that you have a me and that you can actually.
+
+You seize opportunities to get what you want and you can be manipulative to get what you want and you can make pressure off to get what you want. So you learn how to get what you want and it's a very useful way. And it also has a healthy aspect. It has the unhealthy aspect that if you live with other people, then of course you cannot always get what you want. So this would be E3.
+
+So now the interesting part is that you not only have it in children. I don't know. Some experts say it's between three and eight years old, three and 10 years old. I don't remember. But it's like this phase where you're still like a child. But adults, some adults, like 5 % of the population still have it as well. And these are usually people with strong narcissistic tendencies.
+
+There were lot of people from the stages community that are also bringing up Donald Trump a lot, that he might be on that stage, or at least some parts of his personality are still stuck in that stage. But yeah, mean, this would be these very egocentric guys, the bullies that are sometimes not even violent with words, but that also would beat you.
+
+In like in historical sense, this would be the antique. So it would be the face where you have a lot of emperors and empires and wars and slavery. so just people that go out and actually get what they want by killing the others, I don't know, by raping all the women, by killing everybody, killing all the children and so on. So like this very brutal, barbaric face in human history.
+
+Stefan, Integral Journalism (47:52.344)
+And that's in my view, there's not really a form of journalism that is operating on that stage. mean, there's surely a lot of content that is operating on that kind of stage, but this content would more be like 4chan or I don't know, some like really obscure blogs, some really things that you don't want to.
+
+things that I don't even want to mention as an example. This would be E3 in my... And to me it sort of makes sense because this is the last pre-conventional stage in Kukroita. and they are like stage four to six are the conventional stages. These are the stages where you're actually...
+
+in a collective, a society, obeying to the rules of the society, working with the rules of the society, but being a part of the society. so E3 would be the last stage where you are still not growing into this society, but where you just like, first you need to discover that you have an ego and then you can learn how to interact with other egos and make compromises and so on. so it
+
+It's not really because journalism was always something that you sell for the common good. So it doesn't really make sense that you have journalism. Like you write a newspaper for yourself. And that's why I think you don't really have journalism on E3.
+
+Dmitrij Achelrod (49:30.411)
+Well, yes. I mean, I would argue though that, you know, if I really want something, you know, and I need to kind of push the other people to be on my side, right? I will do damage to any oppositional party or to any opposition or to anyone who is against my worldview. So I have the impression that a lot of tabloids, also kind of, you know, institutions...
+
+Stefan, Integral Journalism (49:40.937)
+Mm-hmm. Mm-hmm.
+
+Stefan, Integral Journalism (49:49.761)
+Mmm.
+
+Dmitrij Achelrod (49:56.912)
+like Fox or in Germany, guess you have them as well, that are very unilateral and have very clear agendas that, I mean, and that we would say still wouldn't be E3 that would be already conventional before.
+
+Stefan, Integral Journalism (50:01.068)
+Hmm.
+
+Stefan, Integral Journalism (50:06.529)
+Mmm.
+
+Stefan, Integral Journalism (50:11.657)
+E4, yeah. At least I would say so. mean, okay, you can look at it in your way and I'm not claiming that I'm the expert on any of this, but yeah. So I would not define it like this, but fair enough. You could define it like you say, right? I would say it's E4 because they are still having a group. And so E4, just briefly, you didn't ask for it, but this would be like them against us, right? So like you have a collective group, us.
+
+We are the good guys and everything we do and everything our leaders doing is good and cannot be questioned at all. So autocratic regimes, example, medieval church structures, these kind of things. And then everybody who's not us, but who is them is completely demonized. And they are the idiots. They are the, I don't know, the what do call like links group as if I don't know. So like the idiots from the ecological woke.
+
+blah blah blah that are trying to kill the planet. So I would say that's E4. That's like because you still have some kind of collective that is based on hating other collectives but at least you have a collective and not one person, you know?
+
+Dmitrij Achelrod (51:17.078)
+Mm.
+
+Dmitrij Achelrod (51:26.091)
+Yeah. And Stefan, maybe one more thing that I would love to do with you is really using all of these stages and kind of declinate one topic with these stages so that we can see when we will move from E3 to whatever you name it, E5 or so, to the Russian Listic, how a claim changes. maybe, what is the topic you would like? don't know. You mentioned kind of the highly complex topic like the
+
+Stefan, Integral Journalism (51:41.751)
+Hmm.
+
+Yeah.
+
+Dmitrij Achelrod (51:54.52)
+the war between Israel and Gaza. Is that a good example to pick on how a claim could be phrased from such a developmental stage?
+
+Stefan, Integral Journalism (52:06.296)
+Mm-hmm.
+
+Stefan, Integral Journalism (52:10.904)
+We could try that. We could take gas prices. Maybe that's a little bit easier. But we could try the other one as well. I don't know. And you can help me because we could co-create this. Let's try that. But for E3, wouldn't really know. For E3, would say it's Trump writing on social that the war is over, that they should be...
+
+Dmitrij Achelrod (52:16.407)
+We could.
+
+Stefan, Integral Journalism (52:39.746)
+what do call it? Eradicated. So that would be E3. I wouldn't say it's journalism. It's content in the infosphere, but not journalistic content. Do you have other ideas?
+
+Dmitrij Achelrod (52:44.407)
+Mm-hmm. Mm.
+
+Dmitrij Achelrod (52:49.611)
+Yeah.
+
+Dmitrij Achelrod (52:53.527)
+Yeah, or yeah, exactly. From my point of view, it would have been, you know, just blaming an ethnic group or so, right? Or, know, it's whatever. you know, it's the Jews fault or it's the Muslims are evil, something like this. That would be some sort of claim that could come from this sort of mindset.
+
+Stefan, Integral Journalism (53:04.246)
+Yeah.
+
+Stefan, Integral Journalism (53:14.392)
+Yeah, and I would say that's E4 already.
+
+Dmitrij Achelrod (53:16.097)
+That's before already, okay?
+
+Stefan, Integral Journalism (53:18.38)
+I would say E3, you're not even thinking about other collectives, you're just thinking about yourself. So you're against the whole world or like the whole world belongs to you. But it doesn't matter. mean, let's say, okay, E4 maybe with a lot of E3 still in it. So E4 would be the conformist by Susan Kogroita, right? And what I just said, like them against us, our collective against the other, also this absolute truth.
+
+Dmitrij Achelrod (53:28.097)
+Hmm. Hmm.
+
+Dmitrij Achelrod (53:40.919)
+Mm-hmm.
+
+Stefan, Integral Journalism (53:47.349)
+So if our leader is saying something, then it's the law. And sometimes it's not the leader who's saying it, but God told the leader. And so it's God's law, but through the leader. I mean, they have a lot of journalistic exams and there I would say you have this, what you were mentioning, Fox News, tabloid media, even guys like Pete Hexseth, who's just today quoted Pulp Fiction and not the Bible.
+
+Dmitrij Achelrod (54:13.793)
+Yeah, I read that.
+
+Stefan, Integral Journalism (54:15.404)
+But having all these religious metaphors in it, right? These religious habits, that's very much before to me. And you have it in these tabloid magazines, where you're also blaming the woke idiots or I don't know, even the other way around.
+
+And I mean, a lot of newspapers that are doing this are not only the tabloids, but since I was a correspondent in China, I was even based in one of these newspapers, the Global Times, which is like the English-speaking propaganda outlet of the Communist Party. And yeah, so... someone called. You could cut I just pressed it. Okay, okay.
+
+Dmitrij Achelrod (54:59.799)
+Yeah.
+
+Stefan, Integral Journalism (55:03.606)
+Yeah, so these kind of with the communist party and they so this is really about the newspaper is not really doing what you would say in our modern way of thinking journalistic work that you are actually being critical to what the powerful say and that you are controlling them and that you're fact checking them. But it's more like you are the loudspeaker for the leader.
+
+So that would be E4 journalism. in a good way, in a healthy way, this would be also local newspapers that are bringing some kind of we into the community. I mean, I know if you watched the series where Ricky Gervais, this afterlife where he's like this local journalist, that's like a perfect example, I would say, because he's creating so much community.
+
+with his articles and there's one episode where he has this realization like everybody should be in this newspaper as ones to prove that they existed and that they were healthy for this community. So this would be the healthy part of E4. Yeah. Okay. And to our story, yes, I would say it's exactly what you said. Like it's the Jews fault or it's the Palestine's fault or it's whatever's fault.
+
+Dmitrij Achelrod (56:16.202)
+Mm-hmm.
+
+Stefan, Integral Journalism (56:29.667)
+anything to add for that.
+
+Dmitrij Achelrod (56:32.799)
+Actually, I don't think so. And so if we move forward now, let's say to the, I mean, the blue or the kind of rationalistic functional mindset, what is it and how would journalism look like?
+
+Stefan, Integral Journalism (56:41.101)
+Mm-hmm. Yeah. Yeah.
+
+That's.
+
+I mean, that's a lot of nowadays journalism still, right? I mean, I would say a lot of talk shows are operating on that system, at least on the discourse level, because this would be rationalistic mindset. So, I mean, on the positive side, it means critical thinking. It means that you make up your own mind. You are questioning the absolute truth of the power. You are...
+
+collecting your own data, you are making your own conclusions from that data. if you do that a lot, you become an expert and then other people might listen to you. So you sort of, and then if you are too self-righteous, which is also quite often on that stage, you sort of become God. know there's this famous quote by Nietzsche, would say that somehow we...
+
+It's not exactly how we said it, but it's sort of we transplanted God into the experts or something like that. I mean, if you look at the evolution, it's the next logic step, right? Because first you believed into an absolute truth of Vladimir Putin or God or Mohammed or whatever. And now you become Vladimir Putin or Mohammed in your own expertise field. So I write lot about energy. I still remember how I was in this phase. I was really like,
+
+Stefan, Integral Journalism (58:10.115)
+being a dork, like knowing everything better, correcting everybody in details that are not important and writing these articles that are also overloaded with the facts because you're so proud of everything you know and also always having this aboveism sound, right? So like, I'm the expert, you're the idiots. And if you are not in my opinion, then you are wrong because you are not such an expert as me.
+
+I guess that's quite recognizable in nowadays talk shows and also in lot of op-eds. So a lot of like commentary, opinion pieces. And I mean, the healthy part again is that this is the level of fact-checking. So we have like a whole fact-checking department that is coming from that stage. so we, mean, at Spiegel and other newspapers have that. The Washington Post did this.
+
+long fact-checking article when Trump's first legislation period where they had in the end, they had like 4,800 lies of him fact-checked in his long articles. So you are actually trying to provide the facts. And of course that is still a very, very important thing in journalism, right? Yeah.
+
+Dmitrij Achelrod (59:30.006)
+And yes, and maybe I can.
+
+One potential problem is which facts you provide, right? Because if you selectively provide facts, can turn a story, change the narrative completely, right? So the contextualization of facts and how you want people to make sense of them is very important. And how does that stage relate to that? mean, if we again, apply to the war,
+
+Stefan, Integral Journalism (59:40.899)
+Yeah.
+
+Stefan, Integral Journalism (59:55.801)
+Mm-hmm.
+
+Dmitrij Achelrod (01:00:04.79)
+between Israel and Palestine or Gaza, would affect our rationalistic mindset, say, these are the causality figures. The war is bad because it caused so many dead people. Is that the reporting that would look like that? Or what is it?
+
+Stefan, Integral Journalism (01:00:24.622)
+Yeah, yeah, yeah, yeah. So maybe you could explain it in a way that they are operating on an abstract level, but they still don't include so many variables. So that's too abstract. let's say, I mean, there's this other model, stage model by Michael Commons, this model of hierarchical complexity, which is deeply baked into Susan Kokoheuter's work.
+
+This means like what you were saying in the beginning, how much complexity I can handle. And so on this E5 rationalistic abstract expert stage, you are able to deal with some abstract variables. So you can not just look at what you can touch, but you can look at concepts like freedom or markets or prices and so on.
+
+But usually you are not connecting so many of these variables and build like variable clusters. That would be the next stage then, like E6. And so that's why on this stage, a lot of people are still falling into some kind of ideology trap. So for example, one example in relation to the war would be...
+
+How do we lower the gas prices? Do we use the free markets or so neoliberal ideology or do we use tank rapids? Whatever that is in English like reducing the gas prices with government money.
+
+Dmitrij Achelrod (01:02:05.718)
+fuel discounts.
+
+Stefan, Integral Journalism (01:02:12.794)
+Keynesian approach. These are already quite abstract levels, but if people are writing from that stage, you would still be very one-sided and look at this, okay, let's combine the two and make a synthesis and take other variables. This is like this level. It's already analytic, but it is missing a lot of context for the facts.
+
+You end up with articles where maybe all the facts are true, but they are spinned in a weird way.
+
+Dmitrij Achelrod (01:02:49.398)
+So if.
+
+Stefan, Integral Journalism (01:02:49.582)
+And you have that a lot. You have that a lot in nowadays journalism. Yeah. Yeah. Yeah.
+
+Dmitrij Achelrod (01:02:52.584)
+Mm hmm. And would you say that that is one of the most common?
+
+developmental stages that today's journalism is in.
+
+Stefan, Integral Journalism (01:03:04.836)
+Yeah. And I mean, it makes sense because at least so the ego development people who are very, very, dorky about the analytics. they are very, very, very strict. and they are making these tests and then these validation manuals and so on. And, and they made these big studies with a few thousands of people, doing the same test in, I think it was like 10 or 12 countries.
+
+all of them Western countries. So they have the Western bias, but at least it was not only Germany was also Australia and Britain, think something like that. And, um, and then you had this curve, like, okay, how many people have their center of gravity at which stage? And so this stage five, the relationalistic stage was the biggest, it was like 38 % of the, these
+
+thousands of people in dozens of Western countries, 38 % of them were on that level. So that's the biggest chunk of the whole. it's sort of this and the next stage are the dominating stage in society. And if you look at society as a whole, you can recognize it in a lot of aspects, right? Yeah. And yes, and so maybe last point, I'm sorry, is that if you...
+
+If you want to find some acupuncture points on how you can develop journalism, this is maybe the biggest acupuncture point still, like to help these people to move one stage further and get a little bit less ideological, which would already be very helpful because I think, at least in Germany, a lot of problems that we have are somehow not resolved because people are stuck in these ideological fights.
+
+Dmitrij Achelrod (01:04:55.382)
+And kind of when we look at the horizon, what would be a stage that we could aspire, even if it's maybe very rare to see how would the journalism look like?
+
+Stefan, Integral Journalism (01:05:01.008)
+Hmm.
+
+Stefan, Integral Journalism (01:05:07.354)
+Yeah.
+
+Yeah, I mean, that's what's what my model is mainly doing, right? I mean, I'm still thinking that the more impact you might have on this expert level and help people to become E6 or what's called Achiever in Susan Cooke-Royder's model or Martin Permanthier's model, think it's self-authoring, sovereign. So these are these success people, That are somehow...
+
+dealing with lot of variables at the same time and become very flexible at following their own goals. But they are also not ideological anymore. And they are more team players. So this would be maybe the biggest acupuncture point. And there are some initiatives that are focusing on that. And to your question is what I'm doing. So I'm trying to develop journalism from the conventional realm, which is...
+
+E4 to E6 to the post-conventional realm, which is E7 and E8. And so I'm trying to do two things. One is I try to find these people that are late E6, so late, like very successful journalists that are still stuck in this conventional realm and try to help them develop into the first conventional, post-conventional stage, which is the
+
+Well, E7 individualist, relativistic individualist. I think that's how you call it. So these are these guys, a lot of the people that I found at the beginning of my research. So these people who are a systemic coach slash journalist or a nonviolent communication trainer slash journalist. So these are already at E7 because
+
+Stefan, Integral Journalism (01:07:06.349)
+At this stage, you are more and more looking at your own biases. You become much more introspective. You become much more nuanced on discovering, feeling your own emotions. You are starting to deal with your shadows. And you become much more empathic.
+
+in a way, also like your language becomes you're respecting more the automony and also your thinking. this would be Michael Commons 11 again becomes much more systemic. you are not dealing with a lot of variables, but you are actually seeing the systems in which all these variables are working together. And then you come up with really systemic solutions that are even questioning very fundamental things.
+
+So one thing, for example, that pops up in journalism here is that you had a lot of these really groundbreaking incidents like the Brexit or Trump getting elected the first time or...
+
+Stefan, Integral Journalism (01:08:17.34)
+Russia actually invading Ukraine might be an example. So these things were a lot of the conventional media before were very skeptical that this could actually happen. And it was somehow in the horizon. It was so improbable, so almost impossible that a lot of the coverage before these events were actually not considering.
+
+that this might be happening. And after it happened, then you had this big shift in the coverage. And usually the people who were anticipating these things a little bit more, who were more open to, okay, there might be actually some fundamental shift. It might be actually more possible than we think. And even if we cannot really imagine it, these are usually people from the post-conventional level. And so one thing is I'm trying to...
+
+Dmitrij Achelrod (01:09:12.491)
+Mm.
+
+Stefan, Integral Journalism (01:09:16.124)
+push these people over the edge into the post-conventional realm. And the second even harder thing that I'm for example now doing in my master class where I have a lot of journalists from this E7 model already and I'm trying to help them make some steps into the even later E8 stage.
+
+Dmitrij Achelrod (01:09:38.334)
+So using again our old example, like how would such an E8 or like the latest stage journalism
+
+Stefan, Integral Journalism (01:09:42.875)
+Yeah.
+
+Dmitrij Achelrod (01:09:50.351)
+such a war, such a conflict, you know?
+
+Stefan, Integral Journalism (01:09:54.429)
+First of all, would say you have, so E8, maybe to define it a bit, E8 is not only systemic, but meta-systemic. So you're not looking at one system, but you're looking at a lot of systems together and also how they are building super systems. That would be the cognitive part. And then the emotional part would be even more layered, even more refined, nuanced, less biased.
+
+And what also comes along is these collective biases. this awareness for grand narratives that defining whole epochs and so on and so on. so, mean, I don't know, I'm just making something up. But one way to look at this conflict might be with a very metasystemic view and a very long time horizon that this war is like one of the last
+
+What's zucum in English? One of the twitches of global economic hegemon that has been dominating the world for the last decades and is now challenged by the possible next hegemon, which might be China.
+
+Dmitrij Achelrod (01:10:56.533)
+Cheers.
+
+or contractions or something.
+
+Stefan, Integral Journalism (01:11:22.84)
+and who's trying to stay in this old world by doing some destruction.
+
+And so this might be the deeper motive that you're actually in a historic shift and the guy who is about to get kicked out of the throne is trying to do some damage to stay longer in the throne. And one aspect of this is like the fossil dependency that is also part of this shift because the next hegemon is mainly
+
+focusing on renewables and the old one is not and the old one is trying to sell as much oil as he can and yeah, I don't know. I'm just making up stuff here, but this might be like the lens that you're looking through like the time horizon would be much longer and yeah, the view would be much more meta-systemic. Do you have any ideas?
+
+Dmitrij Achelrod (01:12:34.422)
+Yeah, I guess it's a good example, but I wonder at the same time, while these journalists are able to assume such a bird's eye perspective and also travel in time, so to speak, Have a really, not only a global, but also a temporal top level view, I guess still probably not neglecting
+
+Stefan, Integral Journalism (01:12:54.78)
+Hmm?
+
+Dmitrij Achelrod (01:13:00.936)
+the individual tragedies that happen on the ground, right? Because otherwise it's a completely detached kind of dry theoretical thing where you look at human suffering simply as a byproduct of larger systems kind of collisions or rubbing against each other, where you also honor the very fact of suffering that is currently happening and still probably not drowning in it and not
+
+Stefan, Integral Journalism (01:13:05.031)
+Yeah.
+
+Stefan, Integral Journalism (01:13:09.265)
+Yeah.
+
+Stefan, Integral Journalism (01:13:20.145)
+Yeah.
+
+Dmitrij Achelrod (01:13:28.49)
+maybe oftentimes unilateral taking sides, putting that suffering into a wider context without dehumanizing those who suffer, right? Because oftentimes when we say, suffering, needs to be contextualized. It also takes away people's rights to suffer and to, yeah.
+
+Stefan, Integral Journalism (01:13:47.378)
+Yeah, yeah, that's a very important point. mean, so I could give you one example where you can do a marriage of the two, which was exactly what you say. So I decided like one piece on like the state bankruptcy in Sri Lanka, which was like, even that was just part of a bigger problem in like the global financial market that caused over one and a half decades caused like
+
+I think around 30 developmental countries in the global South to get bankrupt or almost bankrupt. And when I started this research, I realized that you have either these super detached analytical pieces that are looking at macroeconomic developments and so on, a lot of numbers, or you had these victim stories where people were just like how they're suffering, but...
+
+hardly had a combination of the two that was actually being integrative. And so that's what I ended up doing then was really telling this story of the like the financial, the debt crisis and the global south through the eyes of two siblings living in a village in Sri Lanka and always jumping between the micro level, the MISU level and the macro level and the Mundo level.
+
+Yeah, exactly. these would be some approaches to try to break this down and see that how the big is affecting all of this and it's all fractals in the end. Yeah. And then just wondering to our example, I mean, we could also frame it as if you take the stage theory itself, this might also be like a metastemic lens to look at this.
+
+You could say that at least, well, I don't know how to frame it in the world, but in the US, you have this shift from, let's say, E6 achiever, sovereign to E7 relativistic, which in its worst part might be wokeism, but in its good part is just more diversity and very healthy.
+
+Stefan, Integral Journalism (01:16:12.156)
+respect for differences and more equality. that sort of this shift from this one big stage to the next is causing a lot of friction and maybe also leads to a dialectic backlash that some people are actually regressing to, let's say E4. So this conformist level, and then you have this E4 against E7.
+
+cultural war and yeah, don't know. Somewhere in the middle this war appears and the country is electing an E3 president and I don't know. This might be also an interesting lens to look at this.
+
+Dmitrij Achelrod (01:16:49.93)
+Mm.
+
+Dmitrij Achelrod (01:16:56.661)
+Yeah. And so bringing our conversation here to a conclusion, mean, you've talked about this point of transition or threshold, and it is creating friction or pain, right? Because we see that certain ways of functioning of systems are no longer working or as like
+
+One of the guests that I have also talked to, Jeremy Lent, has said, well, actually the system is doing exactly what it's supposed to do. all the pain it's causing, it's because it's kind of by design in the system. But we are now basically at the point where we are dealing with massive uncertainty, where we are seeing the repercussions of these systems in our very own lives by polarization, fragmentation, by wars, by
+
+Stefan, Integral Journalism (01:17:34.61)
+Yeah.
+
+Dmitrij Achelrod (01:17:55.734)
+people feeling more more insecure, uncertain, overwhelmed by all of it. So maybe you have some concluding remarks of how you hope your work might be able to influence it. And do you have kind of a hopeful outlook on all of this or what is your take?
+
+Stefan, Integral Journalism (01:17:55.87)
+Hmm.
+
+Stefan, Integral Journalism (01:18:23.262)
+Hmm.
+
+Stefan, Integral Journalism (01:18:27.046)
+Maybe if you start with the last part, I would say I have a not so pessimistic outlook. And at least, I mean, there are two ways, right? I mean, one is you have just a linear evolution, which was, you always had these decades of crises and reorganization and shifts. But somehow.
+
+humankind was clever enough to survive and to develop and to adapt. And sometimes this happened in very strange ways that we didn't think that it would happen like this. And yeah, so the system was doing what it was supposed to be, it was evolving. And so my hope is that this is also still happening, that we are not, there's this term of epoch,
+
+vanity. So like, people are always believing that they live in the the epoch that is the most terrible of all epochs. and then the end, it was just another epoch that was just as bad as all the others. So that would be the optimistic view or like the not so improbable view that we might still find a way to adapt. And so at least in my bubbles, there are also a lot of people who are also living other
+
+ways of cultural togetherness and dealing with resources and so on and so on. And then, I mean, you have this other scenario which is...
+
+forgot the name of the guy, like why we never discovered aliens or why he never discovered us and it's like...
+
+Dmitrij Achelrod (01:20:18.913)
+Fermin? mean, mean, mean, there's a guy, wait, but why, who is having a vlog who wrote one, but I guess it's a Fermi's paradox, no?
+
+Stefan, Integral Journalism (01:20:27.507)
+Yeah, exactly. Because a lot of civilizations tend to kill themselves at the point where our civilization is, right? And this could also happen. Who knows? I hope not. And so for the first part, what my vision would be, how my project is helping. So I could give you a very concrete example from my master class, because there's like...
+
+13 people.
+
+Stefan, Integral Journalism (01:21:01.641)
+Very intelligent, would say most of them post-conventional or leaning into post-conventional people who are spending one year together, not only learning all my theory and making their own story based on that theory, but also like becoming a group and having other group rituals, having like this atmosphere of openness, having this atmosphere of vulnerability and co-creation.
+
+and on and so on, like flex flow, power structures. And just like by sitting in this group, in this V space, you start to...
+
+feel like, okay, this is like a mini niche of a society and how it could look like. then you take maybe some of the articles that these people are producing that will be very cool and very different and will feel different when you read them.
+
+And you just imagine that maybe this, mean, if we are really optimistic, this just becomes the mainstream. And then maybe in 50 years or whenever we sit there and people are discussing a little bit similar like we are discussing now.
+
+So we might be sitting here and say, you know, look at the old times. They were so barbaric. People were so, they were so barbaric. had slavery. They were exploiting people physically and so on. And maybe so in 50 years we sit there and people are looking back and they say like, I mean, look at this year, 2026 people were so barbaric. How, mean, how, how,
+
+Stefan, Integral Journalism (01:23:01.001)
+What's the word? How tough they were with the emotions of each other. Like how much they were hurting each other emotionally, how insensitive they were to the vulnerabilities, how respectless they were to the autonomy of people and so on and so on. And so, and I guess that would be my vision that maybe me when I'm old or my son is really looking back and say like, I mean, look at this and look at how far we have come.
+
+Yeah. And that this was a little bit fueled by integral journalism. So like the content and the way of exchanging ideas that it is bringing into the world. hopefully a lot of other projects, not only in journalism, but also in other systems and project like your Eveluut, for example, as well. And yeah, that would be my vision.
+
+Dmitrij Achelrod (01:23:57.576)
+Yeah, it's beautiful and hopeful vision. at the same time, think hope alone is not enough. We need to get active and assume our responsibility. And I think this is what you're doing beautifully with your project. You are expanding people's capacity to hold complexity, paradoxes and communicate it in such a way that it also invites the readers to engage in a different way to
+
+Stefan, Integral Journalism (01:24:04.39)
+Nah.
+
+Dmitrij Achelrod (01:24:27.059)
+these stories that are being shared. I just hope that, it will contribute to this world that you just depicted. And Stefan, thank you so much for your service to the world, to your children's and hopefully grandchildren's worlds. yeah, it's good. Thank you. And it was a pleasure to have you here on this podcast, Stefan. If people want to find out more about you, where should they look?
+
+Stefan, Integral Journalism (01:24:34.142)
+Hmm.
+
+Stefan, Integral Journalism (01:24:42.481)
+Yeah, likewise.
+
+Stefan, Integral Journalism (01:24:52.423)
+Likewise.
+
+Stefan, Integral Journalism (01:24:56.639)
+integraljournalism.org. And also, I'm looking for investors.
+
+Dmitrij Achelrod (01:25:02.132)
+Wonderful.
+
+Dmitrij Achelrod (01:25:06.389)
+So if somebody has money to spend for a good cause, call Stefan. All right, Stefan.
+
+Stefan, Integral Journalism (01:25:10.642)
+You
+
+Stefan, Integral Journalism (01:25:15.199)
+to build a really cool AI model of what I just described.
+
+Okay, thanks so much for having me. was really great talking and also good luck to everything you do, which is also wonderful and that I also admire a lot.
+
+Dmitrij Achelrod (01:25:34.165)
+Thank you, Stefan. Much appreciated.
+
